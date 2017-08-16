@@ -1,4 +1,4 @@
-"""
+."""
 Colors text in console mode application (win32).
 Uses ctypes and Win32 methods SetConsoleTextAttribute and
 GetConsoleScreenBufferInfo.
